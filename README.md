@@ -1,2 +1,2 @@
 # Kuznec
-New Russian 128 bit block cipher standart.
+New Russian 128 bit block cipher standard.
